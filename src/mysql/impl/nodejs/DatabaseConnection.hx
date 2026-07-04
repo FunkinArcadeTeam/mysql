@@ -42,7 +42,7 @@ class DatabaseConnection extends DatabaseConnectionBase {
 
                     waitForConnections: true,
                     connectionLimit: 1,
-                    queueLimit: 100,
+                    queueLimit: 1000,
 
                     maxIdle: 1,
                     idleTimeout: 60000,
