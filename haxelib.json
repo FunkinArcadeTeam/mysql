@@ -8,10 +8,6 @@
     "tags": [
     ],
     "releasenote": "0.0.0",
-    "dependencies": {
-        "libmysqlclient": "",
-        "logging": ""
-    },
     "classPath": "src",
     "name": "mysql",
     "description": "",
